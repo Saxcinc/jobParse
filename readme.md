@@ -6,7 +6,7 @@
 ![TQDM](https://img.shields.io/badge/TQDM-4.66.2-orange)
 
 
-Проект парсинга вакансий Python с использованием библиотек ![BeautifulSoup](https://beautiful-soup-4.readthedocs.io/en/latest/) и ![Requests](https://docs.python-requests.org/en/master/).
+Проект парсинга вакансий Python с использованием библиотек *BeautifulSoup* и *Requests*.
 
 ## Описание
 
